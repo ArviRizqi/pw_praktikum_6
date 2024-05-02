@@ -47,3 +47,49 @@ h2 {
     font-weight: 500;
     font-size: 20px;
 }
+
+.container-about{
+    h1{
+        margin-bottom: 30px;
+    }
+}
+
+.about-text{
+    p{
+        font-family: 'Poppins', sans-serif;
+        font-weight: 500;
+        font-size: 20px;
+        padding: 0 50px ;
+    }
+
+    p.first{
+        
+        margin-top: 100px;
+    }
+}
+
+.container{
+    h1{
+        margin-bottom: 30px;
+    }
+}
+
+.col-3{
+    width: 33%;
+    h3{
+        font-family: 'Poppins', sans-serif;
+        font-weight: 600;
+        font-size: 30px;
+    }
+    img{
+        width: 350px;
+    }
+    .news-text{
+        font-family: 'Poppins', sans-serif;
+        font-weight: 400;
+        font-size: 18px;
+        text-align: left;
+        padding-right: 30px;
+        margin-top: 20px;
+    }
+}
