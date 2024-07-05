@@ -1,1 +1,1 @@
-# pw_praktikum-6 daa pw_praktikum-7
+# pw_praktikum-6 dan pw_praktikum-7
